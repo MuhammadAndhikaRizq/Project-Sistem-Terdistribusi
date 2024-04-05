@@ -15,12 +15,14 @@ public class ForceReceiver : MonoBehaviour
 
     public Vector3 Movement => impact + Vector3.up * verticalVelocity;
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         if (verticalVelocity < 0f && controller.isGrounded)
         {
             verticalVelocity = Physics.gravity.y * Time.deltaTime;
-        }else{
+        }
+        else
+        {
             verticalVelocity += Physics.gravity.y * Time.deltaTime;
         }
 
@@ -34,7 +36,6 @@ public class ForceReceiver : MonoBehaviour
                 agent.enabled = true;
             }
         }
-        
     }
 
     public void AddForce(Vector3 force)

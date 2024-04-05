@@ -22,15 +22,13 @@ public class EnemyImpactState : EnemyBaseState
         
         duration -= deltaTime;
 
-        if (duration <= 0)
+        if (duration <= 0f)
         {
             stateMachine.SwitchState(new EnemyIdleState(stateMachine));
         }
     }
 
-    public override void Exit()
-    {
-    }
+    public override void Exit() { }
 
     
 }
