@@ -72,8 +72,5 @@ public class PlayerAttackingState : PlayerBaseState
         stateMachine.ForceReceiver.AddForce(stateMachine.transform.forward * attack.Force);
         alreadyAppliedForce = true;
     }
-
-   
-
     
 }

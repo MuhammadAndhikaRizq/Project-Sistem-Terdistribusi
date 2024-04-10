@@ -38,8 +38,8 @@ public class PlayerTargettingState : PlayerBaseState
         }
         if (stateMachine.Targeter.CurrentTarget == null)
         {
-                stateMachine.SwitchState(new PlayerFreeLookState(stateMachine));
-                return;
+            stateMachine.SwitchState(new PlayerFreeLookState(stateMachine));
+            return;
         }
 
         Vector3 movement = CalculateMovement(deltaTime);
