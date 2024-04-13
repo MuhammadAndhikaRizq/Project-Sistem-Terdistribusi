@@ -54,7 +54,7 @@ public class PlayerFreeLookState : PlayerBaseState
 
     public void OnJump()
     {
-        stateMachine.SwitchState(new PlayerFreeLookState(stateMachine));
+        stateMachine.SwitchState(new PlayerJumpiingState(stateMachine));
     }
 
     private Vector3 CalculateMovement()
