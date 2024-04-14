@@ -21,7 +21,11 @@ public class PlayerHanginState : PlayerBaseState
 
     public override void Tick(float deltaTime)
     {
-        if (stateMachine.InputReader.MovementValue.y < 0f)
+        if(stateMachine.InputReader.MovementValue.y > 0f)
+        {
+            stateMachine.SwitchState(new PlayerPullUpState(stateMachine));
+        }
+        else if(stateMachine.InputReader.MovementValue.y < 0f)
         {
             stateMachine.Controller.Move(Vector3.zero);
             stateMachine.ForceReceiver.Reset();
