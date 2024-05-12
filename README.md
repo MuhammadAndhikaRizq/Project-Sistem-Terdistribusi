@@ -43,6 +43,14 @@ Our diverse team is united by a shared passion for technology, storytelling, and
    - [Portfolio](https://hasbirizqulloh.github.io/MyCV/)
    - [LinkedIn](www.linkedin.com/in/moh-hasbi-rizqulloh-705342218)
    - [GitHub](https://github.com/Hasbirizqulloh)
+     
+4. **Muhammad Faisal A**
+   - Roles: Game Designer
+   - Interests: Technology, Design, Project Management
+   - Quote: "Error messages are the stepping stones to breakthroughs"
+   - [Portfolio](faisalach.github.io)
+   - [LinkedIn](https://www.linkedin.com/in/faisal-achramsyah-82b0b719b/)
+   - [GitHub](https://github.com/faisalach)
 
 ### Topic and Motivation:
 Our project aims to combine AI technology with gaming to create an immersive experience that aligns with Islamic ethics and teachings, promoting virtues such as justice, courage, and unity.
@@ -79,19 +87,19 @@ Our project contributes to several Sustainable Development Goals (SDGs), includi
 [Insert Time Table]
 
 ### References:
-1. [Journal Title 1](journal_url)
-2. [Conference Paper 2](conference_paper_url)
-3. [IEEE Article 3](ieee_article_url)
-4. [ScienceDirect Paper 4](sciencedirect_paper_url)
-5. [MDPI Study 5](mdpi_study_url)
+1. [Artificial Intelligence in Video Games](https://doi.org/10.1215/00029831-10575246)
+2. [Research on the Application of Artificial Intelligence in Games](https://doi.org/10.1109/ICDH57206.2022.00039)
+3. [Analysis of Development of Artificial Intelligence in the Game Industry](https://doi.org/10.34306/ijcitsm.v2i2.100)
+4. [Improving artificial intelligence with games](https://doi.org/10.1126/science.adh8135)
+5. [Serious Games and AI: Challenges and Opportunities for Computational Social Science](https://doi.org/10.1109/ACCESS.2023.3286695)
 
 ### Additional Pages:
 Stay tuned for our short promotional video on Instagram! Follow our campaign [here](campaign_link).
 
 ---
 
-Repository URL: [Knights of Tomorrow GitHub Repository](github_repo_url)
-Proposal URL: [Knights of Tomorrow Proposal](https://www.canva.com/design/DAGE57u1_GY/hycJY7I8i85EhHlI4W0u0Q/edit)
+* Repository URL: [Knights of Tomorrow GitHub Repository](https://github.com/MuhammadAndhikaRizq/Project-Sistem-Terdistribusi)
+* Proposal URL: [Knights of Tomorrow Proposal](https://www.canva.com/design/DAGE57u1_GY/hycJY7I8i85EhHlI4W0u0Q/edit)
 
 ---
 
