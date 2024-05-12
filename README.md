@@ -29,12 +29,12 @@ Our diverse team is united by a shared passion for technology, storytelling, and
    - [GitHub](https://github.com/MuhammadAndhikaRizq)
 
 2. **Muhammad Naufal Muthahhari**
-   - Roles: Quality Assurance (QA) Tester
-   - Interests: Gaming
-   - Quote: "Hmmmm"
-   - [Portfolio](portfolio_url)
-   - [LinkedIn](linkedin_url)
-   - [GitHub](github_url)
+   - Roles: Quality Assurance (QA) and Tester
+   - Interests: Learning and reviewing the design and concept of things
+   - Quote: “It takes time to build something beautiful, but only a moment to destroy it”
+   - [Portfolio](https://blebeb01.github.io)
+   - [LinkedIn](http://www.linkedin.com/in/naufalm09)
+   - [GitHub](https://github.com/blebeb01)
 
 3. **Moh Hasbi Rizqulloh**
    - Roles: AI Specialist and Art director
