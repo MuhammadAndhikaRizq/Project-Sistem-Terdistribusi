@@ -94,7 +94,7 @@ Our project contributes to several Sustainable Development Goals (SDGs), includi
 5. [Serious Games and AI: Challenges and Opportunities for Computational Social Science](https://doi.org/10.1109/ACCESS.2023.3286695)
 
 ### Additional Pages:
-Stay tuned for our short promotional video on Instagram! Follow our campaign [here](campaign_link).
+Stay tuned for our short promotional video on Instagram! Follow our campaign [here](https://www.instagram.com/reel/C7AdiWGSsym/?igsh=MXB2d3dpOHRodjJrMg==).
 
 ---
 
