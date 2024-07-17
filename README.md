@@ -1,6 +1,6 @@
 # Knights of Tomorrow: Battle Across Time
 
-![Knights of Tomorrow Logo](logo.png)
+![Knights of Tomorrow Logo](https://drive.google.com/uc?export=view&id=1XFtnJRu79XEpMJdLMBK8V8-T6UVxzGNK)
 
 ## Project Proposal Summary
 
@@ -11,10 +11,10 @@
 - Muhammad Faisal A
 
 ### UIN and IF Logo:
-![University Logo](uin_logo.png) ![Institute Logo](if_logo.png)
+![University Logo](https://drive.google.com/uc?export=view&id=17m9fsd5JYcZb4jtedD4688KAYnETl_QB) ![Institute Logo](https://drive.google.com/uc?export=view&id=1r37Si8sSlNZlGbu1tB1fYmnx1xeCcROr)
 
 ### Related SDGs Icons:
-![SDGs Icons](sdgs_icons.png)
+![SDGs Icons](https://drive.google.com/uc?export=view&id=1hca1vbf0ubaP_MH_al4wmjT3HnZCiwDt)
 
 ### Introduction:
 Our diverse team is united by a shared passion for technology, storytelling, and gaming. Meet our members and explore our interests, motivations, and portfolios below.
@@ -67,12 +67,11 @@ The game features a captivating logo and visual identity that reflect its blend 
 ### How This Project Relates to SDGs:
 Our project contributes to several Sustainable Development Goals (SDGs), including promoting education, fostering innovation, and encouraging cultural exchange and understanding through gaming.
 
-### Application Flow Chart:
-[Insert Flow Chart Image]
 
 ### Application Design and Illustration:
-[Insert Design and Illustration Images]
-
+![Map](https://drive.google.com/uc?export=view&id=1Plq9TKtCqYzw--yU3S3fVT6GbOHbuQWW)
+![Player](https://drive.google.com/uc?export=view&id=1-9etho41prKhCbRlAN4YOQpBImuhu26X)
+![Enemy](https://drive.google.com/uc?export=view&id=193qkVTU16LkaV6C3x-fZGdLUV5ZN2amP)
 ### Methods and Technologies Used:
 - AI algorithms for NPC behavior using Reinforcement Learning
 - Unity 3d
@@ -83,8 +82,6 @@ Our project contributes to several Sustainable Development Goals (SDGs), includi
 - Itch.io
 - Maximo
 
-### Time Tables:
-[Insert Time Table]
 
 ### References:
 1. [Artificial Intelligence in Video Games](https://doi.org/10.1215/00029831-10575246)
@@ -94,7 +91,7 @@ Our project contributes to several Sustainable Development Goals (SDGs), includi
 5. [Serious Games and AI: Challenges and Opportunities for Computational Social Science](https://doi.org/10.1109/ACCESS.2023.3286695)
 
 ### Additional Pages:
-Stay tuned for our short promotional video on Instagram! Follow our campaign [here](https://www.instagram.com/reel/C7AdiWGSsym/?igsh=MXB2d3dpOHRodjJrMg==).
+Stay tuned for our short promotional video on Instagram! Follow our campaign and demo [here](https://www.instagram.com/reel/C7AdiWGSsym/?igsh=MXB2d3dpOHRodjJrMg==).
 
 ---
 
