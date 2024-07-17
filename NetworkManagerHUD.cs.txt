@@ -1,0 +1,63 @@
+using UnityEngine;
+using Unity.Netcode;
+using Unity.Netcode.Transports.UTP;
+
+public class NetworkManagerHUD : MonoBehaviour
+{
+    private void Start()
+    {
+        if (NetworkManager.Singleton == null)
+        {
+            Debug.LogError("NetworkManager.Singleton is null. Ensure NetworkManager component is added to the GameObject.");
+        }
+        else
+        {
+            Debug.Log("NetworkManager.Singleton is initialized.");
+        }
+    }
+
+    private void OnGUI()
+    {
+        if (NetworkManager.Singleton == null)
+        {
+            GUILayout.Label("NetworkManager not found");
+            return;
+        }
+
+        GUILayout.BeginArea(new Rect(10, 10, 300, 300));
+
+        if (!NetworkManager.Singleton.IsClient && !NetworkManager.Singleton.IsServer)
+        {
+            if (GUILayout.Button("Host"))
+            {
+                NetworkManager.Singleton.StartHost();
+            }
+            if (GUILayout.Button("Client"))
+            {
+                NetworkManager.Singleton.StartClient();
+            }
+            if (GUILayout.Button("Server"))
+            {
+                NetworkManager.Singleton.StartServer();
+            }
+        }
+        else
+        {
+            if (NetworkManager.Singleton.IsServer)
+            {
+                GUILayout.Label("Server running...");
+            }
+            if (NetworkManager.Singleton.IsClient)
+            {
+                GUILayout.Label("Client connected...");
+            }
+
+            if (GUILayout.Button("Disconnect"))
+            {
+                NetworkManager.Singleton.Shutdown();
+            }
+        }
+
+        GUILayout.EndArea();
+    }
+}
