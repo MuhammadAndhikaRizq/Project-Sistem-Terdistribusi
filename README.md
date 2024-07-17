@@ -93,6 +93,9 @@ Our project contributes to several Sustainable Development Goals (SDGs), includi
 ### Additional Pages:
 Stay tuned for our short promotional video on Instagram! Follow our campaign and demo [here](https://www.instagram.com/reel/C7AdiWGSsym/?igsh=MXB2d3dpOHRodjJrMg==).
 
+### Let's Play 
+[Download Game](https://muhammad-andhika-rizq.itch.io/knight-of-tomorrow-battle-accross)
+
 ---
 
 * Repository URL: [Knights of Tomorrow GitHub Repository](https://github.com/MuhammadAndhikaRizq/Project-Sistem-Terdistribusi)
